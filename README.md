@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Guilherme Arruda, seja bem-vindo ao meu perfil!
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Arruda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Arruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Arruda&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
