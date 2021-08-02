@@ -10,7 +10,7 @@
   <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sass-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="GIF" width="180" src="https://media1.tenor.com/images/67a24a0591b34ade87032292ff0fb113/tenor.gif?itemid=14906724">
+  <img align="right" alt="GIF" width="200" src="https://media1.tenor.com/images/67a24a0591b34ade87032292ff0fb113/tenor.gif?itemid=14906724">
 </div>
   
   ##
